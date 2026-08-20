@@ -19,7 +19,7 @@ The project includes:
 
 You can use the deployed app here:
 
-[Exhibitions App](#) <!-- replace with your live deployment link -->
+[Exhibitions App](#) <!-- replace with your live deployment link ok -->
 
 ### User stories
 
