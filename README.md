@@ -69,4 +69,4 @@ Planned features beyond MVP include a community page to browse other users' exhi
 
 ## Submission
 
-This project will be submitted online on 8/27/2026.
+This project will be submitted online on 8/27/2026.# Project-Unit2-Exhibtions
